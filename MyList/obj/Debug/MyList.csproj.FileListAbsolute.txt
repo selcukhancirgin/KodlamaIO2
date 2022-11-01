@@ -1,0 +1,6 @@
+C:\Users\selcu\Desktop\Kodlama.io\MyList\MyList\bin\Debug\MyList.exe
+C:\Users\selcu\Desktop\Kodlama.io\MyList\MyList\bin\Debug\MyList.pdb
+C:\Users\selcu\Desktop\Kodlama.io\MyList\MyList\obj\Debug\MyList.csproj.AssemblyReference.cache
+C:\Users\selcu\Desktop\Kodlama.io\MyList\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\selcu\Desktop\Kodlama.io\MyList\MyList\obj\Debug\MyList.exe
+C:\Users\selcu\Desktop\Kodlama.io\MyList\MyList\obj\Debug\MyList.pdb
